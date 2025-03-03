@@ -1,0 +1,1 @@
+export {HatsuneMiku} from "./HatsuneMiku"
